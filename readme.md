@@ -32,6 +32,7 @@ The dashboard provides a summary of pizza sales for the entire year of 2015. It 
 ## 👨‍💻 Technology Stack
 ### Analytics and Visualization
 - Power BI
+- DAX
 - Python
 - Jupyter Notebook
 
