@@ -1,4 +1,4 @@
-Table,Field,Description
+Table,columns,Description
 orders,order_id,Unique identifier for each order placed by a table
 orders,date,Date the order was placed (entered into the system prior to cooking & serving)
 orders,time,Time the order was placed (entered into the system prior to cooking & serving)
