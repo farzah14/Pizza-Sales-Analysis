@@ -24,11 +24,6 @@ A year's worth of sales data from a fictional pizza place, including the date an
 | pizza_types   | category         | Category that the pizza fall under in the menu (Classic, Chicken, Supreme, or Veggie)                                                                    |
 | pizza_types   | ingredients      | Comma-delimited ingredients used in the pizza as shown in the menu (they all include Mozzarella Cheese, even if not specified; and they all include Tomato Sauce, unless another sauce is specified) |
 
-## 📊 Dashboards and Insights
-The dashboard provides a summary of pizza sales for the entire year of 2015. It also shows the types of pizza based on category and size.
-
-***Insights : XXL-sized pizzas should be removed from the menu because customers are not interested in purchasing such large pizzas for several reasons, one of which is the high price.***
-
 ## 👨‍💻 Technology Stack
 ### Analytics and Visualization
 - Power BI
@@ -67,3 +62,13 @@ PIZZA SALES/
 - Dataset/ : Raw and processed CSV files used for analysis.
 - Scripts/ : SQL extraction + Jupyter notebook for analysis.
 - Visualization/ : Exported charts/visual outputs (reports/dashboards).
+
+## 👥 Target Users
+- Owners and Managers Pizza Store
+- Monitoring Pizza Store Performance
+- Pizza Store Employees Team.
+
+## 📊 Dashboards and Insights
+The dashboard provides a summary of pizza sales for the entire year of 2015. It also shows the types of pizza based on category and size.
+
+***Insights : XXL-sized pizzas should be removed from the menu because customers are not interested in purchasing such large pizzas for several reasons, one of which is the high price.***
