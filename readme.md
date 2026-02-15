@@ -63,7 +63,7 @@ PIZZA SALES/
 │   ├── visualization_pizza_sales.pbix
 │   └── visualization_pizza_sales.pdf
 └── readme.md
-- Assets/: Images used in Visualization.
-- Dataset/: Raw and processed CSV files used for analysis.
-- Scripts/: SQL extraction + Jupyter notebook for analysis.
-- Visualization/: Exported charts/visual outputs (reports/dashboards).
+- Assets/ : Images used in Visualization.
+- Dataset/ : Raw and processed CSV files used for analysis.
+- Scripts/ : SQL extraction + Jupyter notebook for analysis.
+- Visualization/ : Exported charts/visual outputs (reports/dashboards).
