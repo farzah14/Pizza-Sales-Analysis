@@ -42,3 +42,24 @@ The dashboard provides a summary of pizza sales for the entire year of 2015. It 
 
 ### Data Sources
 https://mavenanalytics.io/data-playground/pizza-place-sales
+
+## 📂 Repository Structure
+PIZZA SALES/
+├── .venv/
+├── Assets/
+│   ├── 2025.png
+│   └── pizza.png
+├── Dataset/
+│   ├── data_dictionary.csv
+│   ├── final_dataset_pizza.csv
+│   ├── order_details_r.csv
+│   ├── orders_r.csv
+│   ├── pizza_types_r.csv
+│   └── pizzas_r.csv
+├── Scripts/
+│   ├── get_data.sql
+│   └── pizza_sales_analyst.ipynb
+├── Visualization/
+│   ├── visualization_pizza_sales.pbix
+│   └── visualization_pizza_sales.pdf
+└── readme.md
