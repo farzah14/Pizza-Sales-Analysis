@@ -47,7 +47,7 @@ https://mavenanalytics.io/data-playground/pizza-place-sales
 PIZZA SALES/
 ├── .venv/
 ├── Assets/
-│   ├-- 2025.png
+│   ├── 2025.png
 │   └── pizza.png
 ├── Dataset/
 │   ├── data_dictionary.csv
