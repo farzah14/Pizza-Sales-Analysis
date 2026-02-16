@@ -30,6 +30,7 @@ A year's worth of sales data from a fictional pizza place, including the date an
 - DAX
 - Python
 - Jupyter Notebook
+- Tableau
 
 ### Database
 - SQL Query
