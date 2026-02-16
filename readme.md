@@ -24,7 +24,7 @@ A year's worth of sales data from a fictional pizza place, including the date an
 | pizza_types   | category         | Category that the pizza fall under in the menu (Classic, Chicken, Supreme, or Veggie)                                                                    |
 | pizza_types   | ingredients      | Comma-delimited ingredients used in the pizza as shown in the menu (they all include Mozzarella Cheese, even if not specified; and they all include Tomato Sauce, unless another sauce is specified) |
 
-## 👨‍💻 Technology Stack
+## ⚙️ Technology Stack
 ### Analytics and Visualization
 - Power BI
 - DAX
@@ -76,3 +76,8 @@ Link Visualization Interactive : https://public.tableau.com/views/visualization_
 
 ***Insights : XXL-sized pizzas should be removed from the menu because customers aren't interested in buying them for several reasons, one of which is their high price. Also, stocking up on classic and L-sized pizzas is expected due to their popularity.***
 
+## 🧑‍💻 Authors
+- [LinkedIn](https://www.linkedin.com/in/farzah-febriyanto)
+- [Github](https://github.com/farzah14)
+- [Instagram](https://www.instagram.com/farzah.febriyanto14?igsh=MXBlMHFsc2gzN2M1aQ==)
+- [Tableau](https://public.tableau.com/app/profile/farzah.febriyanto)
